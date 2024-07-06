@@ -1,0 +1,13 @@
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.csproj.AssemblyReference.cache
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.Properties.Resources.resources
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.csproj.GenerateResource.cache
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.csproj.CoreCompileInputs.cache
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.Form1.resources
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\bin\Debug\NicolaiPractice.exe.config
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\bin\Debug\NicolaiPractice.exe
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\bin\Debug\NicolaiPractice.pdb
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.exe
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.pdb
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.cout.resources
+C:\Users\АЛЕКСЕЙ\Desktop\Лаба_7\NicolaiPractice\NicolaiPractice\obj\Debug\NicolaiPractice.Form2.resources
